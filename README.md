@@ -1,1 +1,1 @@
-## Hugo source for somaiasylvia.com
+## somaiasylvia.com
