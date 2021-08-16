@@ -2,6 +2,7 @@ baseURL = "//somaiasylvia.com/"
 languageCode = "en-us"
 title = "Somaia Sarwat Sylvia"
 theme = "personal-web"
+
 copyright="© Somaia Sarwat Sylvia"
 googleAnalytics = ""
 enableEmoji=true
